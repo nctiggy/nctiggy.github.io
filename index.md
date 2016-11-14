@@ -29,7 +29,7 @@ This is a learning exercise to see what a SDDC really looks like. How do the dif
 
 ___
 ## Tools for the tools!
-* I am making a quick executiove decision to use Pivotal Tracker for storyboarding and over all progress of this effort.
+* I am making a quick executive decision to use Pivotal Tracker for storyboarding and over all progress of this effort.
 * Slack will be the primary conversation point to collaborate, lets do a room for each teams tool in the underground team (Really don't want yet another team to keep track of.
 
 ___
@@ -37,7 +37,8 @@ ___
 1. Switch
 2. Initail Server w/ESXi
 3. RackHD
-4. CM tool
+4. CM tool - Ansible
+5. Object Store - ECS
   
 *then the rest*
 
